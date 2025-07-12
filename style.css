@@ -12,6 +12,18 @@ header {
   padding: 2rem;
   text-align: center;
 }
+.main-title {
+  font-size: 3rem;          /* Big bold title */
+  font-weight: 800;
+  margin: 0.5rem 0;
+  text-transform: uppercase;
+}
+
+.main-tagline {
+  font-size: 1.5rem;         /* Larger slogan */
+  font-weight: 500;
+  margin-top: 0;
+}
 
 .hero {
   background-color: #f0f8ff;
@@ -56,4 +68,13 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem;
+}
+
+.main-title {
+  color: #ffcc00;
+  text-shadow: 2px 2px #000;
+}
+
+.main-tagline {
+  color: #ffffff;
 }
