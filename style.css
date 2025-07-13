@@ -90,3 +90,24 @@ footer {
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
+
+.global-support {
+  padding: 2rem;
+  background-color: #e6f7ff;
+  color: #002147;
+  max-width: 900px;
+  margin: 2rem auto;
+  border-left: 6px solid #007acc;
+  border-radius: 6px;
+}
+
+.global-support h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.country-list {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: #444;
+}
